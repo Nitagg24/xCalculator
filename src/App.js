@@ -1,9 +1,10 @@
 import Calculator from "./Calculator";
+import FinalHomepageComplete from "./FinalHomepageComplete";
 
 function App() {
   return (
     <div className="App">
-      <Calculator/>
+      <FinalHomepageComplete />
     </div>
   );
 }
